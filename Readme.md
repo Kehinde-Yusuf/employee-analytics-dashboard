@@ -4,7 +4,7 @@
 
 The **Employee Analytics Dashboard** is an end-to-end Business Intelligence project that combines **PostgreSQL**, **SQL**, and **Microsoft Power BI** to analyze employee, department, appraisal, and travel expense data.
 
-The project demonstrates the complete analytics workflow—from designing and querying a relational database to creating an interactive dashboard that transforms raw data into meaningful business insights.
+The project demonstrates the complete analytics workflow from designing and querying a relational database to creating an interactive dashboard that transforms raw data into meaningful business insights.
 
 
 ---
