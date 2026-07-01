@@ -124,19 +124,19 @@ Users can interact with the dashboard by selecting an employee from the slicer t
 
 ### Dashboard Overview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ---
 
 ### Salary Analysis
 
-![Salary Analysis](images/salary_analysis.png)
+![Salary Analysis](Images/salary_analysis.png)
 
 ---
 
 ### Interactive Employee Filter
 
-![Employee Filter](images/employee_filter.png)
+![Employee Filter](Images/employee_filter.png)
 
 ---
 
