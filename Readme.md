@@ -211,6 +211,6 @@ Future enhancements for this project may include:
 
 **Kehinde Yusuf**
 
-Finance professional transitioning into Data Analytics with practical experience in SQL, PostgreSQL, Power BI, data visualization, and business intelligence.
+Finance professional transitioning into Data Analytics/Engineering with practical experience in SQL, PostgreSQL, Power BI, data visualization, and business intelligence.
 
 I am passionate about transforming data into actionable insights that support better business decisions.
